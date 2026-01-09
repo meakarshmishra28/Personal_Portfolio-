@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4c58e73.css",
+    "main.js": "/static/js/main.ddab434e.js",
+    "static/js/787.f5325387.chunk.js": "/static/js/787.f5325387.chunk.js",
+    "static/media/Conference_Website.png": "/static/media/Conference_Website.20b6f9f9d618c4142f5e.png",
+    "static/media/Restaurant.png": "/static/media/Restaurant.a140b1423b04603a212a.png",
+    "static/media/upscale.png": "/static/media/upscale.d1d929d637564d36449c.png",
+    "static/media/Personal_Website.png": "/static/media/Personal_Website.95b89dcbe685c1baf699.png",
+    "static/media/ide.png": "/static/media/ide.e76b9b8f6be04b540365.png",
+    "static/media/gist.png": "/static/media/gist.8d02a91c4a4b6595cca8.png",
+    "static/media/python.png": "/static/media/python.c51d40980f76d37e747d.png",
+    "static/media/akarsh-mishra-full-stack-developer.jpeg": "/static/media/akarsh-mishra-full-stack-developer.879f4feeab7af232bef1.jpeg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.602d194d2e51dd737c29.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.e4c58e73.css.map": "/static/css/main.e4c58e73.css.map",
+    "main.ddab434e.js.map": "/static/js/main.ddab434e.js.map",
+    "787.f5325387.chunk.js.map": "/static/js/787.f5325387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c58e73.css",
+    "static/js/main.ddab434e.js"
+  ]
+}
