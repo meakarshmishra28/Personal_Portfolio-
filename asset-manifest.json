@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Personal_Portfolio-/static/css/main.e4c58e73.css",
+    "main.js": "/Personal_Portfolio-/static/js/main.ff175e9f.js",
+    "static/js/787.f5325387.chunk.js": "/Personal_Portfolio-/static/js/787.f5325387.chunk.js",
+    "static/media/Conference_Website.png": "/Personal_Portfolio-/static/media/Conference_Website.20b6f9f9d618c4142f5e.png",
+    "static/media/Restaurant.png": "/Personal_Portfolio-/static/media/Restaurant.a140b1423b04603a212a.png",
+    "static/media/upscale.png": "/Personal_Portfolio-/static/media/upscale.d1d929d637564d36449c.png",
+    "static/media/Personal_Website.png": "/Personal_Portfolio-/static/media/Personal_Website.95b89dcbe685c1baf699.png",
+    "static/media/ide.png": "/Personal_Portfolio-/static/media/ide.e76b9b8f6be04b540365.png",
+    "static/media/gist.png": "/Personal_Portfolio-/static/media/gist.8d02a91c4a4b6595cca8.png",
+    "static/media/python.png": "/Personal_Portfolio-/static/media/python.c51d40980f76d37e747d.png",
+    "static/media/akarsh-mishra-full-stack-developer.jpeg": "/Personal_Portfolio-/static/media/akarsh-mishra-full-stack-developer.879f4feeab7af232bef1.jpeg",
+    "static/media/react.png": "/Personal_Portfolio-/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Personal_Portfolio-/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/html.png": "/Personal_Portfolio-/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Personal_Portfolio-/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Personal_Portfolio-/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/Bootstrap.png": "/Personal_Portfolio-/static/media/Bootstrap.602d194d2e51dd737c29.png",
+    "static/media/javascript.png": "/Personal_Portfolio-/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Personal_Portfolio-/index.html",
+    "main.e4c58e73.css.map": "/Personal_Portfolio-/static/css/main.e4c58e73.css.map",
+    "main.ff175e9f.js.map": "/Personal_Portfolio-/static/js/main.ff175e9f.js.map",
+    "787.f5325387.chunk.js.map": "/Personal_Portfolio-/static/js/787.f5325387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c58e73.css",
+    "static/js/main.ff175e9f.js"
+  ]
+}
