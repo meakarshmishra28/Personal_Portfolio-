@@ -61,7 +61,7 @@ const About = () => {
           className="mb-20 fade-in flex mx-auto items-center justify-center hover:scale-105 duration-300 rounded bg-gradient-to-b from-cyan-500 to-blue-500 lg:w-1/5 md:w-1/5 w-2/4 h-10 text-center cursor-pointer mt-10 gap-2"
         >
           <AiOutlineCloudDownload />
-          <a href="./Akarsh Mishra Resume.pdf" download>
+          <a href="./Akarsh Mishra.pdf" download>
             Download CV
           </a>
         </div>
